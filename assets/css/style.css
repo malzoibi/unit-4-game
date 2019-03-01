@@ -1,0 +1,29 @@
+body{
+background-color: lightblue;
+}
+h1{
+color: white;
+background-color: orange;
+width: 275px;
+}
+#instructions{
+    color: green;
+    background-color: burlywood;
+    width: 350px;
+}
+.targetScore{
+    color: maroon; 
+    background-color: lightgreen;
+    width: 250px;
+    height: 100px; 
+}
+.winsAndLosses{
+    background-color: turquoise; 
+    width: 100px;
+}
+ .totalScore{
+     color: white;
+     background-color: teal;
+     width: 250px;
+     height: 100px;
+ }
